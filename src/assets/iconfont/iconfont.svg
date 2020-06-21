@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="zhousishenxiang" unicode="&#59017;" d="M256-128v192h512v-192H256z m448 128H320v-64h384v64zM1024 544h-96v-96h-224v-384h-64V512h224V608h96V672H64v-64h96v-96h224v-448h-64V448H96v96H0V736h384V768a128 128 0 0 0 256 0v-32h384v-192zM576 768a64 64 0 0 1-128 0v-96h128V768z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="xunjianweixiu" unicode="&#60116;" d="M328.533333 128l-55.466666-98.133333L170.666667 132.26666699999998l102.4 55.466666L379.733333 298.66666699999996l59.733334-59.733334L328.533333 128z m332.8 597.333333l209.066667-209.066666-341.333333-345.6-209.066667 209.066666 341.333333 345.6z m0-119.466666L439.466667 384l29.866666-29.866667 221.866667 221.866667-29.866667 29.866667z m59.733334-59.733334l-221.866667-221.866666 29.866667-29.866667 221.866666 221.866667-29.866666 29.866666z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
