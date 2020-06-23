@@ -95,7 +95,7 @@
               <span class="componyName">{{item.enterprise}}</span>
             </div>
             <p>
-              <span>{{item.rent}}元/天/m²</span>
+              <span v-if="item.status !=1">{{item.rent}}元/天/m²</span>
               <span>{{item.built_up_area}}m²</span>
             </p>
           </div>
