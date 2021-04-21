@@ -35,7 +35,7 @@
     "sass-resources-loader": "^1.3.4",
     "selfsigned": "^1.10.4",
     "serve-index": "^1.9.1",
-    "sockjs": "^0.3.19",
+    "sockjs": "^0.3.20",
     "spdy": "^4.0.0",
     "strip-comments": "^1.0.2",
     "strip-css-comments": "^3.0.0",
